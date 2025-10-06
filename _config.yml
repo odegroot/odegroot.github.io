@@ -1,3 +1,2 @@
 title: OdG's blog
-theme: jekyll-theme-minima
-description: Foo bar baz
+theme: minima # https://github.com/jekyll/minima
